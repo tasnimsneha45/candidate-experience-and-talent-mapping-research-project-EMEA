@@ -166,8 +166,3 @@ Simulated aspects of recruitment workflow:
 README.md
 ```
 
----
-
-
-
-Feel free to connect or provide feedback.
