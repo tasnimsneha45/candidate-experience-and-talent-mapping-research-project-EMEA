@@ -2,9 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-<img width="262" height="331" alt="Screenshot 2026-05-05 214033" src="https://github.com/user-attachments/assets/479fc043-0294-4ff1-8132-a07dd3d755ca" />
-<img width="539" height="328" alt="Screenshot 2026-05-05 214307" src="https://github.com/user-attachments/assets/5a6e657f-1c92-4436-83f2-1278f5a38fbb" />
-<img width="324" height="325" alt="Screenshot 2026-05-05 214452" src="https://github.com/user-attachments/assets/4d68e6b9-2dcb-4e25-9cd8-e2def367f536" />
+<img width="262" height="331" alt="Screenshot 2026-05-05 214033" src="https://github.com/user-attachments/assets/479fc043-0294-4ff1-8132-a07dd3d755ca" /><img width="539" height="328" alt="Screenshot 2026-05-05 214307" src="https://github.com/user-attachments/assets/5a6e657f-1c92-4436-83f2-1278f5a38fbb" /><img width="324" height="325" alt="Screenshot 2026-05-05 214452" src="https://github.com/user-attachments/assets/4d68e6b9-2dcb-4e25-9cd8-e2def367f536" />
 
 
 ---
