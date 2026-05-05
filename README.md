@@ -1,22 +1,28 @@
 # Candidate Experience & Talent Mapping Research Project (EMEA)
 
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## 📌 Overview
 
-This project simulates a real-world recruitment and talent mapping process for entry-level **Business Analyst** roles across the EMEA region. It focuses on identifying candidate personas, analyzing talent availability, and building a structured recruitment pipeline using Excel, with interactive dashboards developed in Power BI.
+This project applies a structured talent mapping and recruitment analysis approach for entry-level **Business Analyst** roles across the EMEA region. It focuses on identifying candidate personas, analyzing talent availability, and building a data-driven recruitment pipeline using Excel and Power BI.
 
-The project demonstrates practical HR and sourcing skills, including Boolean search techniques, candidate profiling, and data-driven talent insights.
+The project demonstrates practical skills in sourcing, data analysis, and visualization to generate insights that can support recruitment strategy and decision-making.
 
 ---
 
 ## 🎯 Objectives
 
 * Conduct talent mapping for Business Analyst roles across EMEA
-* Identify and define candidate personas based on market data
-* Apply Boolean search strategies to simulate candidate sourcing
+* Define candidate personas based on market-aligned criteria
+* Apply Boolean search strategies to identify relevant candidate profiles
 * Build a structured candidate pipeline tracker in Excel
 * Analyze talent availability trends and skill distribution
 * Develop an interactive dashboard using Power BI
-* Simulate candidate experience tracking and follow-up workflows
+* Evaluate candidate pipeline progression and engagement patterns
 
 ---
 
@@ -24,7 +30,7 @@ The project demonstrates practical HR and sourcing skills, including Boolean sea
 
 ### 1. Role Definition
 
-Target role selected: **Business Analyst (Entry-Level, 0–3 years experience)**
+Target role: **Business Analyst (Entry-Level, 0–3 years experience)**
 
 ---
 
@@ -41,11 +47,11 @@ Defined key attributes for ideal candidates:
 
 ### 3. Boolean Search Strategy
 
-Candidate sourcing was simulated using Boolean search techniques on LinkedIn.
+Applied Boolean search techniques on LinkedIn to identify relevant candidate profiles.
 
 **Example search string:**
 
-```id="bool01"
+```
 ("Business Analyst" OR "Data Analyst") AND (Excel OR SQL OR "Power BI") AND (Germany OR Netherlands OR Hungary)
 ```
 
@@ -53,9 +59,9 @@ Candidate sourcing was simulated using Boolean search techniques on LinkedIn.
 
 ### 4. Data Collection
 
-* Collected and structured data from 30–50 candidate profiles
-* Data anonymized and standardized for analysis
-* Key attributes captured:
+* Collected and structured data from 50+ candidate profiles
+* Standardized and anonymized dataset for analysis
+* Captured key attributes:
 
   * Candidate ID
   * Location
@@ -63,70 +69,67 @@ Candidate sourcing was simulated using Boolean search techniques on LinkedIn.
   * Years of Experience
   * Skills
   * Company
-  * Availability indicators (if visible)
+  * Pipeline Status
 
 ---
 
-### 5. Excel-Based Pipeline Tracker
+### 5. Excel-Based Pipeline & Analysis
 
-Developed a structured recruitment tracker in Excel including:
+Developed a structured recruitment tracker in Excel:
 
-* Candidate pipeline stages:
+* Pipeline stages:
 
   * New
   * Contacted
   * Responded
   * Rejected
 
-* Features:
+* Key features:
 
-  * Data validation (dropdowns for status tracking)
-  * Conditional formatting for follow-up deadlines
-  * Organized tabular data for filtering and sorting
-  * Pivot tables for initial analysis
+  * Data validation for status tracking
+  * Conditional formatting for workflow visibility
+  * Pivot tables for exploratory analysis
 
----
+Performed analysis on:
 
-### 6. Talent Insights & Analysis (Excel)
-
-Performed exploratory analysis using Excel:
-
-* Candidate distribution by country
-* Skills frequency analysis
-* Experience level breakdown
-* Pipeline status tracking
-
-These insights formed the foundation for further visualization in Power BI.
-
----
-
-### 7. Power BI Dashboard Development
-
-Built an interactive dashboard using Microsoft Power BI to visualize recruitment and talent insights.
-
-**Dashboard Features:**
-
-* Talent distribution by country (map/bar chart)
-* Skill demand analysis (top skills visualization)
-* Candidate pipeline status (funnel or bar chart)
+* Talent distribution by country
 * Experience level segmentation
-* Interactive filters (location, skills, experience)
-
-**Key Value:**
-
-* Transformed raw Excel data into business insights
-* Enabled quick identification of talent pools across EMEA
-* Improved data storytelling for recruitment decision-making
+* Pipeline status breakdown
+* Skill frequency patterns
 
 ---
 
-### 8. Candidate Experience Simulation
+### 6. Power BI Dashboard Development
 
-Simulated aspects of recruitment workflow:
+Built an interactive dashboard using Power BI to visualize recruitment insights.
 
-* Follow-up scheduling and tracking
-* Response rate estimation (where necessary)
-* Identification of engagement patterns across candidate segments
+**Dashboard includes:**
+
+* Talent distribution by country
+* Candidate pipeline status
+* Experience level distribution
+* Skill demand analysis
+* Interactive filters (location, experience)
+
+---
+
+## 📊 Key Insights
+
+* Highest talent concentration observed in Germany and the Netherlands
+* Majority of candidates fall within 1–2 years of experience
+* Excel and SQL are the most common skills across profiles
+* Pipeline distribution is concentrated in “New” and “Rejected” stages, indicating limited progression through mid-stage engagement
+
+---
+
+## 💼 Business Relevance
+
+This project demonstrates how talent mapping and data analysis can support recruitment strategy by:
+
+* Identifying high-supply talent markets for targeted hiring
+* Highlighting in-demand skills for role alignment
+* Improving visibility into candidate pipeline progression
+* Supporting data-driven decision-making in early-stage recruitment
 
 ---
 
@@ -134,35 +137,24 @@ Simulated aspects of recruitment workflow:
 
 * Microsoft Excel (data structuring, analysis, pivot tables)
 * Microsoft Power BI (data visualization and dashboarding)
-* LinkedIn (candidate sourcing simulation)
-
----
-
-## 📊 Key Outcomes
-
-* Built a structured talent pipeline tracker from scratch
-* Applied real-world sourcing techniques using Boolean logic
-* Analyzed talent availability trends across EMEA
-* Developed an interactive Power BI dashboard for recruitment insights
-* Demonstrated understanding of candidate experience and hiring workflows
+* LinkedIn (candidate sourcing and research)
 
 ---
 
 ## 📁 Project Structure
 
-```id="struct02"
-/data
-  └── candidate_dataset.xlsx
-
-/excel
-  └── talent_pipeline_tracker.xlsx
-
-/powerbi
-  └── talent_dashboard.pbix
-
-/outputs
-  └── dashboard_screenshots.png
-
-README.md
+```
+Talent-Mapping-Project/
+│
+├── Talent_Mapping_Dashboard.xlsx
+├── Talent_Mapping_Dashboard.pbix
+├── screenshots/
+│   └── dashboard.png
+└── README.md
 ```
 
+---
+
+## 📬 Summary
+
+This project reflects a practical application of HR analytics and business analysis concepts, combining data handling, visualization, and structured problem-solving to simulate real-world recruitment decision-making.
