@@ -115,9 +115,9 @@ Built an interactive dashboard using Power BI to visualize recruitment insights.
 
 ## 📊 Key Insights
 
-* Highest talent concentration observed in Germany and the Netherlands
+* Highest talent concentration observed in the Netherlands, Hungary and Poland
 * Majority of candidates fall within 1–2 years of experience
-* Excel and SQL are the most common skills across profiles
+* Excel and Python are the most common skills across profiles
 * Pipeline distribution is concentrated in “New” and “Rejected” stages, indicating limited progression through mid-stage engagement
 
 ---
